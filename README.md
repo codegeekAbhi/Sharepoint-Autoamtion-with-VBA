@@ -1,4 +1,4 @@
-# Sharepoint-Autoamtion-with-VBA
+# Sharepoint-Automation-with-VBA
 
 
 
